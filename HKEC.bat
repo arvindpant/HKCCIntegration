@@ -1,1 +1,0 @@
-java -jar "%~dp0target\HKCCIntegrate-0.0.1-SNAPSHOT.jar" >scriptlog.txt
